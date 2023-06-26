@@ -37,3 +37,4 @@ form.addEventListener('submit', (event) => {
   handle_category_selection();
   form.reset();
 });
+});
